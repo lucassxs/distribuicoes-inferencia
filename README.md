@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# distribuicoess-inferencia
+# distribuicoes-inferencia
 
 <!-- badges: start -->
 <!-- badges: end -->
